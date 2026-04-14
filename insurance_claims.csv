@@ -1,0 +1,241 @@
+Claim_ID,Date,Region,Customer_Age,Policy_Type,Claim_Type,Claim_Amount,Premium_Amount,Claim_Status,Fraud_Flag,Vehicle_Age,Days_to_Report,Claim_to_Premium_Ratio,Sales_Channel
+1001,2024-06-12,Gauteng,44,Third Party,Accident,17160,740,Rejected,Yes,5,8,23.19,Broker
+1002,2024-05-19,Gauteng,57,Comprehensive,Accident,32120,1320,Approved,No,3,3,24.33,Broker
+1003,2024-02-20,KZN,26,Third Party,Accident,19100,890,Rejected,No,7,2,21.46,Direct
+1004,2024-02-10,KZN,22,Comprehensive,Accident,48690,1450,Approved,No,6,3,33.58,Branch
+1005,2024-01-25,Western Cape,31,Comprehensive,Accident,16940,1300,Approved,No,4,3,13.03,Broker
+1006,2024-04-06,Gauteng,61,Comprehensive,Theft,22630,1540,Approved,No,1,11,14.69,Branch
+1007,2024-01-18,Gauteng,47,Comprehensive,Accident,41040,1350,Approved,No,6,5,30.4,Broker
+1008,2024-03-12,Western Cape,35,Third Party,Accident,41340,680,Rejected,No,2,6,60.79,Direct
+1009,2024-06-23,KZN,51,Third Party,Accident,19930,920,Approved,Yes,9,2,21.66,Online
+1010,2024-06-12,KZN,35,Comprehensive,Accident,27840,1720,Under Investigation,Yes,10,2,16.19,Online
+1011,2024-03-21,Western Cape,43,Comprehensive,Windscreen,2660,1540,Approved,No,11,5,1.73,Direct
+1012,2024-05-07,Western Cape,57,Business Cover,Theft,27010,2150,Approved,No,1,11,12.56,Broker
+1013,2024-03-08,Eastern Cape,29,Comprehensive,Theft,50410,1090,Approved,No,4,10,46.25,Direct
+1014,2024-05-06,Gauteng,42,Comprehensive,Accident,31220,1290,Approved,No,4,8,24.2,Online
+1015,2024-01-17,Western Cape,39,Third Party,Accident,35590,730,Under Investigation,No,5,1,48.75,Broker
+1016,2024-06-23,KZN,33,Third Party,Accident,20430,870,Approved,No,2,13,23.48,Broker
+1017,2024-04-21,Gauteng,39,Comprehensive,Fire,74680,1820,Rejected,No,14,4,41.03,Online
+1018,2024-05-09,Free State,42,Third Party,Accident,28260,650,Approved,No,3,9,43.48,Online
+1019,2024-02-11,KZN,27,Third Party,Accident,25490,680,Approved,No,4,6,37.49,Broker
+1020,2024-04-02,Eastern Cape,32,Third Party,Accident,15010,820,Under Investigation,No,7,2,18.3,Broker
+1021,2024-01-22,KZN,48,Third Party,Windscreen,3640,730,Rejected,Yes,1,6,4.99,Direct
+1022,2024-05-20,Gauteng,54,Comprehensive,Theft,61330,1460,Rejected,No,0,12,42.01,Branch
+1023,2024-06-25,Gauteng,30,Comprehensive,Windscreen,9070,1310,Approved,No,6,6,6.92,Online
+1024,2024-01-31,Gauteng,30,Comprehensive,Accident,40710,1460,Approved,No,8,2,27.88,Direct
+1025,2024-06-30,KZN,48,Comprehensive,Windscreen,12680,1550,Approved,Yes,12,4,8.18,Branch
+1026,2024-06-20,Western Cape,29,Comprehensive,Fire,43130,1550,Approved,No,10,8,27.83,Branch
+1027,2024-05-01,Eastern Cape,26,Comprehensive,Accident,28230,1410,Approved,No,7,4,20.02,Direct
+1028,2024-01-14,KZN,47,Business Cover,Accident,28840,2180,Rejected,No,4,9,13.23,Direct
+1029,2024-03-04,Gauteng,41,Comprehensive,Accident,20390,1660,Rejected,No,7,2,12.28,Broker
+1030,2024-01-20,Western Cape,40,Third Party,Accident,22270,830,Under Investigation,No,9,11,26.83,Broker
+1031,2024-01-24,Free State,45,Third Party,Accident,32020,1040,Approved,No,18,8,30.79,Direct
+1032,2024-01-16,Gauteng,52,Comprehensive,Accident,31760,1420,Approved,No,6,2,22.37,Branch
+1033,2024-06-27,Free State,33,Business Cover,Fire,55090,1800,Approved,Yes,9,5,30.61,Online
+1034,2024-01-15,KZN,26,Comprehensive,Fire,76030,1860,Approved,No,14,17,40.88,Broker
+1035,2024-05-15,Gauteng,31,Business Cover,Accident,54900,2560,Approved,No,8,2,21.45,Broker
+1036,2024-03-01,Western Cape,37,Business Cover,Fire,74360,1970,Approved,Yes,4,4,37.75,Direct
+1037,2024-06-17,KZN,64,Comprehensive,Windscreen,2690,1780,Approved,No,9,1,1.51,Broker
+1038,2024-04-11,Gauteng,33,Third Party,Accident,24820,810,Approved,No,5,17,30.64,Branch
+1039,2024-06-08,Free State,58,Business Cover,Accident,36750,1760,Under Investigation,No,0,3,20.88,Broker
+1040,2024-01-18,Eastern Cape,40,Comprehensive,Accident,29400,1320,Approved,No,5,5,22.27,Branch
+1041,2024-06-16,KZN,64,Third Party,Accident,16720,940,Under Investigation,Yes,0,5,17.79,Branch
+1042,2024-03-08,Gauteng,46,Comprehensive,Theft,13280,1500,Approved,No,4,6,8.85,Broker
+1043,2024-02-22,KZN,43,Third Party,Accident,19410,840,Approved,No,3,10,23.11,Broker
+1044,2024-06-11,Western Cape,42,Comprehensive,Accident,44940,1250,Approved,No,0,1,35.95,Online
+1045,2024-04-23,KZN,48,Comprehensive,Accident,24890,1620,Rejected,No,8,12,15.36,Broker
+1046,2024-05-19,Gauteng,39,Comprehensive,Theft,41620,1540,Approved,Yes,5,3,27.03,Direct
+1047,2024-01-11,Free State,26,Comprehensive,Accident,16150,1220,Rejected,No,1,11,13.24,Broker
+1048,2024-04-14,Free State,48,Third Party,Windscreen,2810,650,Approved,No,0,16,4.32,Broker
+1049,2024-02-15,Free State,29,Comprehensive,Fire,49180,1270,Under Investigation,No,6,6,38.72,Broker
+1050,2024-03-04,Gauteng,32,Third Party,Accident,33890,1070,Approved,No,10,3,31.67,Branch
+1051,2024-04-27,Western Cape,42,Third Party,Windscreen,2390,910,Approved,No,11,9,2.63,Broker
+1052,2024-03-12,Eastern Cape,37,Business Cover,Accident,28760,2340,Under Investigation,No,10,9,12.29,Online
+1053,2024-05-17,Western Cape,41,Comprehensive,Windscreen,9240,1350,Under Investigation,No,6,6,6.84,Broker
+1054,2024-01-10,Gauteng,29,Comprehensive,Fire,40150,1440,Approved,No,10,16,27.88,Broker
+1055,2024-04-08,Free State,65,Comprehensive,Accident,27250,1200,Under Investigation,No,3,2,22.71,Direct
+1056,2024-06-24,KZN,31,Third Party,Theft,18690,810,Rejected,Yes,0,7,23.07,Direct
+1057,2024-03-25,KZN,23,Third Party,Accident,28800,1040,Rejected,No,12,11,27.69,Branch
+1058,2024-03-24,Western Cape,33,Comprehensive,Accident,20820,1310,Approved,No,6,6,15.89,Direct
+1059,2024-02-14,KZN,39,Comprehensive,Theft,59540,1250,Approved,No,6,3,47.63,Broker
+1060,2024-05-28,KZN,46,Comprehensive,Accident,36310,1370,Rejected,No,9,14,26.5,Online
+1061,2024-02-13,KZN,53,Comprehensive,Theft,16090,1350,Under Investigation,Yes,6,19,11.92,Online
+1062,2024-03-01,KZN,60,Comprehensive,Accident,15430,1470,Approved,No,11,10,10.5,Broker
+1063,2024-01-19,Western Cape,24,Business Cover,Fire,51620,2460,Approved,No,0,4,20.98,Online
+1064,2024-02-07,KZN,47,Comprehensive,Fire,75920,1320,Approved,Yes,5,9,57.52,Online
+1065,2024-02-15,Eastern Cape,23,Third Party,Accident,34130,870,Approved,No,8,7,39.23,Direct
+1066,2024-02-04,Eastern Cape,27,Third Party,Windscreen,4130,650,Rejected,No,4,3,6.35,Direct
+1067,2024-06-05,Eastern Cape,37,Business Cover,Theft,15540,1870,Approved,No,2,3,8.31,Branch
+1068,2024-05-01,Western Cape,24,Third Party,Flood,19680,910,Approved,No,8,3,21.63,Broker
+1069,2024-03-02,Gauteng,20,Comprehensive,Accident,41430,1800,Approved,No,10,15,23.02,Broker
+1070,2024-02-05,Gauteng,36,Comprehensive,Accident,22540,1400,Approved,No,2,5,16.1,Broker
+1071,2024-04-29,Western Cape,31,Comprehensive,Accident,17380,1300,Approved,No,2,15,13.37,Branch
+1072,2024-05-27,Western Cape,49,Comprehensive,Accident,26080,1230,Under Investigation,No,4,14,21.2,Online
+1073,2024-04-17,KZN,22,Third Party,Flood,21850,930,Approved,No,7,3,23.49,Branch
+1074,2024-05-04,Gauteng,33,Comprehensive,Fire,47800,1250,Approved,Yes,0,8,38.24,Direct
+1075,2024-02-02,Free State,32,Comprehensive,Windscreen,7420,1270,Approved,No,8,7,5.84,Direct
+1076,2024-04-19,Gauteng,27,Comprehensive,Accident,21840,1390,Approved,No,4,2,15.71,Direct
+1077,2024-04-07,Gauteng,46,Business Cover,Theft,32330,1840,Approved,No,0,5,17.57,Branch
+1078,2024-01-14,Free State,24,Comprehensive,Theft,35740,1430,Rejected,No,3,9,24.99,Online
+1079,2024-03-04,Gauteng,45,Comprehensive,Accident,18810,1270,Approved,No,5,7,14.81,Broker
+1080,2024-02-25,Western Cape,31,Comprehensive,Accident,18260,1200,Approved,No,5,6,15.22,Online
+1081,2024-02-11,Free State,42,Comprehensive,Accident,25080,1570,Under Investigation,No,13,9,15.97,Broker
+1082,2024-04-11,Free State,35,Comprehensive,Theft,48200,1210,Rejected,No,9,2,39.83,Branch
+1083,2024-03-18,Eastern Cape,41,Third Party,Accident,27810,820,Approved,No,8,1,33.91,Branch
+1084,2024-04-19,KZN,52,Comprehensive,Theft,43680,1250,Approved,No,4,7,34.94,Broker
+1085,2024-04-20,Free State,44,Third Party,Flood,15150,770,Approved,No,7,11,19.68,Online
+1086,2024-06-15,Gauteng,32,Third Party,Accident,33590,850,Rejected,No,4,3,39.52,Direct
+1087,2024-03-09,Western Cape,29,Comprehensive,Windscreen,4220,1440,Approved,No,1,1,2.93,Broker
+1088,2024-05-25,KZN,56,Comprehensive,Accident,34110,1480,Approved,Yes,5,5,23.05,Branch
+1089,2024-03-07,Western Cape,29,Business Cover,Fire,95000,2210,Under Investigation,Yes,7,17,42.99,Broker
+1090,2024-01-22,Gauteng,55,Comprehensive,Theft,30090,1620,Approved,No,14,8,18.57,Broker
+1091,2024-04-24,Eastern Cape,26,Comprehensive,Accident,34250,1140,Approved,No,0,9,30.04,Online
+1092,2024-05-01,KZN,39,Comprehensive,Windscreen,7710,1330,Approved,No,2,5,5.8,Direct
+1093,2024-03-19,Gauteng,61,Comprehensive,Accident,32400,1950,Approved,No,9,4,16.62,Broker
+1094,2024-02-17,Gauteng,25,Third Party,Accident,16900,750,Approved,No,3,8,22.53,Direct
+1095,2024-01-26,Eastern Cape,30,Comprehensive,Accident,25440,1210,Approved,No,6,4,21.02,Broker
+1096,2024-01-12,Free State,57,Comprehensive,Fire,32180,1180,Approved,No,7,4,27.27,Broker
+1097,2024-01-04,KZN,50,Comprehensive,Accident,37670,1410,Under Investigation,Yes,10,9,26.72,Broker
+1098,2024-05-02,Gauteng,25,Comprehensive,Theft,58470,1460,Approved,No,4,4,40.05,Direct
+1099,2024-05-24,Free State,26,Comprehensive,Accident,17610,1130,Approved,No,8,8,15.58,Direct
+1100,2024-06-07,Gauteng,35,Comprehensive,Accident,25500,1500,Under Investigation,No,0,16,17.0,Direct
+1101,2024-03-19,KZN,20,Comprehensive,Windscreen,6340,1710,Approved,No,8,1,3.71,Broker
+1102,2024-03-08,KZN,60,Comprehensive,Accident,15420,1490,Approved,Yes,9,5,10.35,Broker
+1103,2024-06-01,Western Cape,22,Comprehensive,Accident,18890,1700,Approved,No,8,6,11.11,Broker
+1104,2024-02-29,Free State,36,Third Party,Theft,37490,690,Approved,No,0,8,54.33,Online
+1105,2024-05-19,Gauteng,42,Comprehensive,Accident,28520,1740,Under Investigation,Yes,9,15,16.39,Broker
+1106,2024-06-01,Eastern Cape,51,Comprehensive,Accident,23840,1110,Approved,No,4,6,21.48,Broker
+1107,2024-03-10,Western Cape,27,Comprehensive,Accident,34270,1640,Approved,No,9,2,20.9,Broker
+1108,2024-03-05,Gauteng,70,Comprehensive,Fire,53850,1680,Approved,No,8,1,32.05,Branch
+1109,2024-06-21,Eastern Cape,38,Comprehensive,Fire,61620,1600,Approved,No,12,3,38.51,Broker
+1110,2024-03-12,Gauteng,60,Third Party,Theft,18100,890,Approved,Yes,0,11,20.34,Direct
+1111,2024-03-26,Western Cape,41,Comprehensive,Accident,37380,1350,Rejected,No,1,7,27.69,Direct
+1112,2024-04-12,Eastern Cape,46,Comprehensive,Accident,15660,1320,Under Investigation,No,0,5,11.86,Broker
+1113,2024-04-13,Eastern Cape,42,Third Party,Accident,35290,770,Approved,No,1,2,45.83,Branch
+1114,2024-05-12,Western Cape,51,Third Party,Theft,31580,670,Approved,Yes,4,10,47.13,Online
+1115,2024-03-14,Western Cape,41,Third Party,Accident,29040,720,Approved,No,4,12,40.33,Branch
+1116,2024-02-10,Gauteng,28,Comprehensive,Accident,17820,1470,Approved,No,9,6,12.12,Broker
+1117,2024-01-31,KZN,39,Comprehensive,Windscreen,13000,1570,Approved,No,9,3,8.28,Broker
+1118,2024-05-03,Free State,55,Comprehensive,Theft,14210,1060,Approved,No,0,1,13.41,Direct
+1119,2024-02-04,Eastern Cape,26,Comprehensive,Flood,24340,1240,Approved,No,3,5,19.63,Direct
+1120,2024-01-01,Gauteng,41,Comprehensive,Theft,35950,1540,Approved,No,5,2,23.34,Branch
+1121,2024-05-17,Western Cape,40,Comprehensive,Fire,29090,1280,Under Investigation,No,7,6,22.73,Direct
+1122,2024-06-27,Gauteng,68,Comprehensive,Flood,70150,1670,Approved,No,4,4,42.01,Direct
+1123,2024-04-07,Western Cape,56,Third Party,Flood,21250,700,Approved,No,4,2,30.36,Branch
+1124,2024-05-08,Free State,44,Comprehensive,Accident,18490,1070,Rejected,No,3,6,17.28,Branch
+1125,2024-01-04,KZN,42,Comprehensive,Theft,28160,1400,Under Investigation,No,7,8,20.11,Broker
+1126,2024-03-27,KZN,63,Comprehensive,Accident,18970,1540,Approved,No,3,5,12.32,Broker
+1127,2024-03-22,KZN,69,Business Cover,Theft,32680,2240,Approved,No,4,3,14.59,Direct
+1128,2024-06-24,Free State,51,Business Cover,Flood,65960,2050,Rejected,Yes,9,7,32.18,Direct
+1129,2024-01-26,Western Cape,55,Third Party,Windscreen,4050,890,Approved,No,8,4,4.55,Broker
+1130,2024-04-05,Western Cape,40,Comprehensive,Accident,44640,1340,Approved,No,5,5,33.31,Online
+1131,2024-06-05,Eastern Cape,46,Third Party,Accident,34460,900,Approved,Yes,13,4,38.29,Branch
+1132,2024-03-06,Western Cape,41,Third Party,Windscreen,7540,740,Approved,No,6,7,10.19,Direct
+1133,2024-01-19,Western Cape,53,Comprehensive,Theft,11160,1140,Approved,No,0,3,9.79,Online
+1134,2024-03-18,Gauteng,43,Comprehensive,Theft,61350,1440,Approved,No,8,11,42.6,Broker
+1135,2024-06-28,Gauteng,44,Business Cover,Fire,69230,2170,Rejected,No,4,2,31.9,Broker
+1136,2024-01-13,Free State,47,Third Party,Flood,35670,650,Approved,No,5,2,54.88,Branch
+1137,2024-03-31,Gauteng,38,Comprehensive,Accident,35650,1260,Rejected,No,6,4,28.29,Online
+1138,2024-02-05,KZN,43,Business Cover,Fire,84680,2340,Approved,No,7,5,36.19,Broker
+1139,2024-02-03,Gauteng,46,Comprehensive,Fire,25380,1620,Approved,Yes,10,6,15.67,Broker
+1140,2024-04-03,KZN,47,Business Cover,Flood,51600,1780,Approved,No,1,4,28.99,Broker
+1141,2024-03-16,Eastern Cape,33,Comprehensive,Accident,35670,1120,Under Investigation,No,0,3,31.85,Branch
+1142,2024-06-22,KZN,18,Business Cover,Windscreen,14870,2210,Approved,No,5,3,6.73,Branch
+1143,2024-01-04,Gauteng,57,Comprehensive,Accident,18130,1590,Approved,No,9,4,11.4,Online
+1144,2024-06-12,Free State,39,Comprehensive,Accident,34380,1160,Approved,No,5,3,29.64,Broker
+1145,2024-06-05,Gauteng,55,Comprehensive,Flood,55490,1730,Approved,No,9,5,32.08,Branch
+1146,2024-02-05,Gauteng,31,Comprehensive,Windscreen,9820,1420,Approved,No,6,10,6.92,Broker
+1147,2024-04-09,Western Cape,31,Third Party,Fire,27400,730,Rejected,No,4,4,37.53,Branch
+1148,2024-02-09,Free State,44,Third Party,Flood,58070,860,Approved,No,16,5,67.52,Online
+1149,2024-06-25,Western Cape,46,Comprehensive,Windscreen,9890,1370,Approved,No,2,4,7.22,Branch
+1150,2024-05-19,Free State,18,Third Party,Accident,36660,780,Under Investigation,No,0,18,47.0,Broker
+1151,2024-04-26,Gauteng,46,Comprehensive,Theft,51600,1260,Approved,Yes,0,14,40.95,Branch
+1152,2024-02-02,Eastern Cape,55,Comprehensive,Flood,53100,1190,Under Investigation,No,7,4,44.62,Direct
+1153,2024-02-29,Western Cape,52,Comprehensive,Windscreen,8870,1220,Approved,No,0,4,7.27,Broker
+1154,2024-02-03,KZN,25,Third Party,Accident,26510,710,Approved,Yes,0,4,37.34,Branch
+1155,2024-03-01,KZN,20,Comprehensive,Accident,17310,1440,Approved,No,4,14,12.02,Broker
+1156,2024-01-17,Western Cape,49,Third Party,Accident,32620,910,Under Investigation,No,10,5,35.85,Broker
+1157,2024-01-12,KZN,38,Business Cover,Fire,62340,1810,Approved,No,5,9,34.44,Broker
+1158,2024-05-02,Eastern Cape,39,Comprehensive,Accident,37060,1330,Under Investigation,No,3,5,27.86,Online
+1159,2024-03-23,KZN,49,Comprehensive,Accident,17980,1490,Approved,No,7,10,12.07,Online
+1160,2024-06-01,KZN,18,Comprehensive,Theft,16200,1760,Rejected,No,2,8,9.2,Broker
+1161,2024-06-15,Eastern Cape,36,Comprehensive,Windscreen,7370,1280,Approved,No,6,9,5.76,Direct
+1162,2024-04-26,Western Cape,44,Third Party,Accident,28130,790,Under Investigation,No,4,5,35.61,Broker
+1163,2024-06-24,Free State,58,Comprehensive,Flood,56500,1010,Rejected,Yes,1,6,55.94,Broker
+1164,2024-02-03,KZN,29,Third Party,Accident,23440,910,Approved,Yes,7,13,25.76,Broker
+1165,2024-06-19,Free State,46,Comprehensive,Windscreen,6790,1140,Approved,No,8,4,5.96,Broker
+1166,2024-01-27,KZN,55,Comprehensive,Theft,31620,1300,Under Investigation,Yes,1,1,24.32,Broker
+1167,2024-04-04,Gauteng,58,Comprehensive,Accident,32230,1720,Approved,No,9,3,18.74,Direct
+1168,2024-06-08,KZN,66,Third Party,Accident,28930,870,Approved,No,1,1,33.25,Branch
+1169,2024-02-16,Gauteng,46,Third Party,Windscreen,3430,990,Approved,No,8,9,3.46,Direct
+1170,2024-06-17,Western Cape,42,Comprehensive,Theft,26460,1230,Approved,No,5,2,21.51,Broker
+1171,2024-04-17,Western Cape,50,Comprehensive,Accident,20720,1170,Approved,No,0,2,17.71,Broker
+1172,2024-01-14,Gauteng,50,Third Party,Accident,23810,1020,Approved,No,12,6,23.34,Broker
+1173,2024-06-04,Western Cape,41,Comprehensive,Fire,68280,1560,Approved,No,10,6,43.77,Broker
+1174,2024-06-22,KZN,33,Comprehensive,Accident,42010,1550,Approved,No,7,1,27.1,Broker
+1175,2024-02-22,Gauteng,30,Comprehensive,Accident,35360,1420,Approved,No,9,4,24.9,Broker
+1176,2024-04-20,Gauteng,53,Comprehensive,Fire,23690,1380,Approved,No,7,3,17.17,Direct
+1177,2024-01-19,Western Cape,50,Third Party,Accident,34750,970,Approved,Yes,13,3,35.82,Direct
+1178,2024-04-19,KZN,22,Third Party,Accident,36480,960,Approved,Yes,0,0,38.0,Broker
+1179,2024-06-07,Western Cape,45,Third Party,Accident,17060,1010,Approved,No,11,4,16.89,Direct
+1180,2024-04-12,KZN,36,Comprehensive,Accident,38110,1190,Approved,No,3,4,32.03,Broker
+1181,2024-05-10,KZN,42,Comprehensive,Accident,47550,1540,Under Investigation,No,8,0,30.88,Online
+1182,2024-06-14,Eastern Cape,43,Comprehensive,Accident,38190,1210,Rejected,No,5,16,31.56,Broker
+1183,2024-06-16,Gauteng,41,Business Cover,Fire,78850,2000,Approved,No,1,5,39.42,Direct
+1184,2024-06-23,Free State,28,Comprehensive,Theft,50880,1280,Rejected,No,4,1,39.75,Online
+1185,2024-02-08,Western Cape,66,Comprehensive,Theft,49340,1650,Approved,No,7,6,29.9,Online
+1186,2024-01-19,Gauteng,35,Comprehensive,Accident,46090,1240,Under Investigation,Yes,2,2,37.17,Branch
+1187,2024-01-24,KZN,25,Comprehensive,Theft,64280,1330,Under Investigation,No,0,7,48.33,Direct
+1188,2024-04-25,Free State,68,Comprehensive,Accident,37680,1370,Under Investigation,No,4,11,27.5,Online
+1189,2024-04-25,Gauteng,36,Business Cover,Theft,58600,2330,Approved,No,3,8,25.15,Online
+1190,2024-03-04,KZN,28,Business Cover,Theft,43480,2420,Rejected,No,14,4,17.97,Online
+1191,2024-04-09,Western Cape,31,Comprehensive,Theft,25260,1280,Approved,No,5,5,19.73,Online
+1192,2024-01-25,KZN,45,Comprehensive,Accident,33150,1420,Approved,No,6,2,23.35,Branch
+1193,2024-02-08,Western Cape,36,Third Party,Accident,14930,860,Approved,No,11,6,17.36,Broker
+1194,2024-04-10,Gauteng,34,Third Party,Accident,45420,870,Approved,No,7,3,52.21,Direct
+1195,2024-02-02,KZN,50,Third Party,Fire,36880,850,Rejected,No,0,0,43.39,Online
+1196,2024-04-18,Western Cape,50,Comprehensive,Accident,14780,1630,Approved,No,10,4,9.07,Branch
+1197,2024-02-19,Gauteng,32,Comprehensive,Accident,49550,1380,Under Investigation,Yes,7,1,35.91,Branch
+1198,2024-05-14,Gauteng,41,Comprehensive,Fire,64830,1370,Approved,No,2,5,47.32,Broker
+1199,2024-06-26,Eastern Cape,33,Third Party,Accident,25430,670,Rejected,No,2,4,37.96,Direct
+1200,2024-03-01,Free State,59,Third Party,Fire,46480,710,Approved,Yes,9,2,65.46,Online
+1201,2024-04-30,Free State,64,Comprehensive,Fire,21030,1290,Approved,No,3,9,16.3,Direct
+1202,2024-04-07,Western Cape,42,Comprehensive,Accident,17900,1190,Rejected,No,6,16,15.04,Broker
+1203,2024-01-14,KZN,22,Third Party,Accident,16340,850,Rejected,No,2,12,19.22,Broker
+1204,2024-03-13,Gauteng,31,Comprehensive,Accident,44790,1240,Approved,No,3,10,36.12,Direct
+1205,2024-02-26,Eastern Cape,21,Business Cover,Windscreen,10720,2720,Approved,No,11,4,3.94,Direct
+1206,2024-04-08,Free State,35,Comprehensive,Accident,29380,1480,Approved,No,11,16,19.85,Branch
+1207,2024-02-07,Gauteng,26,Comprehensive,Flood,26150,1250,Rejected,Yes,0,2,20.92,Online
+1208,2024-04-24,KZN,49,Business Cover,Accident,54000,1980,Under Investigation,Yes,3,4,27.27,Broker
+1209,2024-06-04,KZN,42,Comprehensive,Accident,40510,1500,Approved,Yes,2,7,27.01,Broker
+1210,2024-06-08,Western Cape,43,Comprehensive,Windscreen,10010,1410,Approved,Yes,3,3,7.1,Direct
+1211,2024-03-02,KZN,46,Comprehensive,Accident,43500,1400,Approved,No,0,5,31.07,Direct
+1212,2024-06-20,Gauteng,37,Business Cover,Accident,43710,1920,Under Investigation,No,1,4,22.77,Direct
+1213,2024-05-21,Gauteng,28,Third Party,Accident,15130,820,Approved,No,4,2,18.45,Direct
+1214,2024-04-01,Eastern Cape,29,Comprehensive,Fire,36230,1190,Rejected,No,8,5,30.45,Online
+1215,2024-03-26,Gauteng,44,Comprehensive,Accident,33990,1520,Rejected,No,3,0,22.36,Online
+1216,2024-06-27,Western Cape,20,Comprehensive,Accident,32120,1600,Approved,No,10,3,20.07,Online
+1217,2024-02-21,Gauteng,69,Comprehensive,Accident,42060,1740,Under Investigation,No,11,10,24.17,Branch
+1218,2024-05-19,Western Cape,36,Comprehensive,Theft,29200,1300,Approved,No,4,8,22.46,Broker
+1219,2024-06-16,Western Cape,50,Comprehensive,Accident,39780,1330,Under Investigation,No,3,5,29.91,Branch
+1220,2024-04-08,Western Cape,26,Comprehensive,Fire,63320,1580,Approved,No,12,12,40.08,Direct
+1221,2024-01-22,KZN,45,Comprehensive,Theft,11210,1280,Approved,No,1,7,8.76,Branch
+1222,2024-01-21,Western Cape,40,Comprehensive,Accident,42990,1270,Approved,No,0,7,33.85,Online
+1223,2024-04-24,Gauteng,37,Third Party,Accident,17240,730,Under Investigation,No,5,13,23.62,Branch
+1224,2024-01-15,Gauteng,58,Third Party,Accident,36490,730,Under Investigation,No,4,3,49.99,Branch
+1225,2024-02-06,Eastern Cape,44,Third Party,Accident,17310,760,Rejected,No,2,2,22.78,Broker
+1226,2024-04-02,Western Cape,56,Comprehensive,Theft,49660,1150,Approved,No,5,5,43.18,Online
+1227,2024-01-20,KZN,30,Comprehensive,Accident,39100,1170,Approved,No,0,2,33.42,Online
+1228,2024-02-17,Western Cape,20,Comprehensive,Theft,35340,1560,Approved,No,4,9,22.65,Broker
+1229,2024-06-05,Gauteng,23,Business Cover,Theft,32320,2280,Approved,No,3,4,14.18,Broker
+1230,2024-04-23,Free State,26,Third Party,Windscreen,5850,720,Approved,No,6,7,8.12,Branch
+1231,2024-05-20,KZN,47,Business Cover,Flood,59690,2180,Rejected,No,1,5,27.38,Online
+1232,2024-04-02,Western Cape,46,Comprehensive,Accident,17110,1640,Approved,No,13,5,10.43,Broker
+1233,2024-05-21,KZN,30,Comprehensive,Windscreen,7740,1420,Approved,No,3,3,5.45,Broker
+1234,2024-04-11,Free State,35,Third Party,Accident,15200,660,Approved,No,0,10,23.03,Online
+1235,2024-03-22,KZN,38,Comprehensive,Fire,47830,1450,Rejected,No,10,3,32.99,Broker
+1236,2024-06-12,KZN,61,Third Party,Accident,18840,980,Rejected,No,9,3,19.22,Direct
+1237,2024-05-12,Gauteng,54,Comprehensive,Accident,43880,1440,Under Investigation,No,8,4,30.47,Online
+1238,2024-03-13,Eastern Cape,27,Comprehensive,Theft,46090,1390,Approved,Yes,7,19,33.16,Direct
+1239,2024-05-16,Gauteng,26,Third Party,Theft,19250,860,Rejected,Yes,6,5,22.38,Direct
+1240,2024-06-03,Western Cape,53,Business Cover,Accident,27090,2780,Under Investigation,Yes,15,8,9.74,Branch
